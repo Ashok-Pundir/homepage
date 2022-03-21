@@ -1,0 +1,29 @@
+* {
+    box-sizing: content-box;
+}
+
+.speaker_row {
+
+}
+.speaker_col {
+    max-width: 20%;
+    flex: 0 0 20%;
+}
+
+/* Attendees */
+.attendees_container {
+    background-color: #0a0a3f;
+}
+.attendees_row {
+    align-items: center;
+    justify-content: center;
+}
+.attendees_col {
+    max-width: 18%;
+    flex: 0 18%;
+}
+
+/* Know More */
+.knowmore_container{
+    background-color: #green;
+}
